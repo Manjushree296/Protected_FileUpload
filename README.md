@@ -9,7 +9,7 @@
 
 cd server
 npm install
-Create .env file in /server:
+Create .env file in /server:  
 env
 MONGO_URI=mongodb://localhost:27017/portfolioDB
 JWT_SECRET=your_jwt_secret
