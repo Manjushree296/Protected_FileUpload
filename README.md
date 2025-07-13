@@ -1,7 +1,7 @@
 🔧 Installation
 
 ### Prerequisites
-- Node.js v18+ (backend)
+- Node.js v18+ (backend) 
 - MongoDB (local or MongoDB Atlas)
 - npm or yarn 
 
