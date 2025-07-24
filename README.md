@@ -5,7 +5,7 @@
 - npm or yarn    
  
 ### 1️⃣ Backend Setup
-
+ 
 cd server
 npm install
 Create .env file in /server:  
