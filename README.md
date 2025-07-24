@@ -4,7 +4,7 @@
 - MongoDB (local or MongoDB Atlas) 
 - npm or yarn    
  
-### 1️⃣ Backend Setup
+### 1️⃣ Backend Setup 
  
 cd server
 npm install
