@@ -3,7 +3,7 @@
 - Node.js v18+ (backend) 
 - MongoDB (local or MongoDB Atlas) 
 - npm or yarn    
-
+ 
 ### 1️⃣ Backend Setup
 
 cd server
